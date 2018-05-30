@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "13277668993",
+    "firebase_url": "https://flashchatandroid-8ea12.firebaseio.com",
+    "project_id": "flashchatandroid-8ea12",
+    "storage_bucket": "flashchatandroid-8ea12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13277668993:android:86e63921fcdc4249",
+        "android_client_info": {
+          "package_name": "com.aron.ChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13277668993-0chohgpsjrqhvkpp1loo65d2760kmm95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-615MmMgzmBAV5iM_p3xYbvSldQ7Wvl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
